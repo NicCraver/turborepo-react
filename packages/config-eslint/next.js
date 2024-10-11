@@ -44,5 +44,6 @@ module.exports = {
   rules: {
     "import/no-default-export": "off",
     'eslint-comments/require-description': 'off',
+    'no-console': 'off',
   },
 };
